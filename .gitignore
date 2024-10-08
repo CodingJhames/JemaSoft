@@ -1,0 +1,44 @@
+# Maven specific files
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# NetBeans specific files
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+*.orig
+
+# Ignore logs
+*.log
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.iml
+*.class
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Compiled source
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Temporary files
+*.swp
+*.swo
+*.bak
+*.tmp
+
